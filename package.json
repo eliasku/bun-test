@@ -1,0 +1,9 @@
+{
+  "name": "bun-fetch",
+  "version": "0.0.0",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "bun-types": "^0.0.83"
+  }
+}
